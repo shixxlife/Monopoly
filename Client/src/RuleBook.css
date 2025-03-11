@@ -1,0 +1,53 @@
+.rulebook-container {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 1.5rem;
+    background-color: #a3c5af;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.rulebook-title {
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    color: #054e3a;
+    margin-bottom: 1rem;
+}
+
+.rulebook-subtitle {
+    text-align: center;
+    color: #1a6a4b;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+}
+
+.rulebook-content {
+    background-color: rgb(200, 239, 224);
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+}
+
+.rulebook-section {
+    margin-bottom: 1.5rem;
+}
+
+.rulebook-section-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #0a6a25;
+    border-bottom: 2px solid #e5e7eb;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.rulebook-section-text {
+    color: #4b5563;
+    line-height: 1.6;
+}
+
+.rulebook-highlight {
+    font-weight: bold;
+    color: #0b5c3d;
+}
